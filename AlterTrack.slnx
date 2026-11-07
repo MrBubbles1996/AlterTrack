@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AlterTrack.Api/AlterTrack.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AlterTrack.Api.Tests/AlterTrack.Api.Tests.csproj" />
+  </Folder>
+</Solution>

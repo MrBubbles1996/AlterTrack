@@ -1,0 +1,6 @@
+@AlterTrack.Api_HostAddress = http://localhost:5249
+
+GET {{AlterTrack.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
